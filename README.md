@@ -4,5 +4,7 @@ We are Students for BCIT, and we are building a go-kart in our shop. This reposi
 Team - Gavin, Leo, and Mason
 
 Gavin|Project Manager/Mechanical designer
+
 Leo|3D Modeling/Documentation
+
 Mason|Electrical/Mechanical
